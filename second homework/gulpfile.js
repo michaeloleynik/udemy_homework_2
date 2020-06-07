@@ -4,7 +4,7 @@ const gulp = require("gulp");
 const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
 
-// const dist = "D:/openserver/OpenServer/domains/js-pract";
+//const dist = "D:/openserver/OpenServer/domains/js-pract-2";
 const dist = "./dist";
 
 
